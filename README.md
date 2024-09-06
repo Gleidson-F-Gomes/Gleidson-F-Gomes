@@ -1,15 +1,29 @@
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/38584372-ac76-4206-9351-6f0fc57400ba">
 </div>
 
-# -- Bem vindo --
+
+
+
+
+
+
+# -- Bem vindo --  
+
+
 
 </div>
 <br>
+<div align="left">
 <img align="right" src="https://komarev.com/ghpvc/?username=Gleidson-F-Gomes" alt="Gleidson-F-Gomes's Profile Views" />
-<a href="https://www.linkedin.com/in/gleidsonfernandogomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/gleidsonfernandogomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:gleds.fg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/d02cac37-c430-4edf-b8cf-93d12f252ee4 ">
+<img src="https://img.shields.io/badge/GCP-Profile%20Public-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white%22%20alt=%22Google%20Cloud%20Profile"/>
+
+
+</div>
 
 
 ## Sobre mim:
@@ -44,6 +58,9 @@
   
   <!-- Windows -->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+  <!-- SAP -->
+  <img src="https://img.shields.io/badge/AC%20-%20InternationalGroup%20SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -76,21 +93,25 @@
   
   <!-- Pandas -->
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  
+    
   <!-- NumPy -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  
+  <!-- Colab -->
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+
+  <!-- Google Cloud -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+
+  <!-- Google Cloud Kubernets-->
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+
+  <!-- CISCO -->
+  <img src="https://img.shields.io/badge/NDG%20CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+  
 </div>
 
-
-
-
-<div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-
-<!-- GIT -->
-
-Acesse meu perfil público:
-https://www.cloudskillsboost.google/public_profiles/d02cac37-c430-4edf-b8cf-93d12f252ee4 
 
 <!-- 
 theme=ocean_dark 
@@ -98,8 +119,12 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 -->
 
 
+
+
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gleidson-F-Gomes&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gleidson-F-Gomes&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gleidson-F-Gomes&theme=tokyonight) |
 | :-: | :-: | :-: |
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gleidson-F-Gomes&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Gleidson-F-Gomes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
