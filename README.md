@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
   <!-- SAP -->
-  <img src="https://img.shields.io/badge/AC%20-%20InternationalGroup%20SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/AC%20-%20InternationalGroup-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
