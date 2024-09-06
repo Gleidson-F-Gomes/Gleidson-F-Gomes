@@ -1,4 +1,8 @@
-# -- Gleidson Fernando Gomes --
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/38584372-ac76-4206-9351-6f0fc57400ba">
+</div>
+
+# -- Bem vindo --
 
 </div>
 <br>
