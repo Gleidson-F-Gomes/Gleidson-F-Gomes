@@ -12,11 +12,11 @@
 # -- Bem vindo --  
 
 
+<img align="left" src="https://komarev.com/ghpvc/?username=Gleidson-F-Gomes" alt="Gleidson-F-Gomes's Profile Views" />  
 
 </div>
 <br>
 <div align="left">
-<img align="right" src="https://komarev.com/ghpvc/?username=Gleidson-F-Gomes" alt="Gleidson-F-Gomes's Profile Views" />
 <a href="https://www.linkedin.com/in/gleidsonfernandogomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:gleds.fg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/d02cac37-c430-4edf-b8cf-93d12f252ee4 ">
